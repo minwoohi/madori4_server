@@ -1,5 +1,5 @@
 {
-	"accessKeyId" : "AKIA3X7JD7Z66DIOIZ4U",
-  "secretAccessKey": "/fwrTjZVzjTtG9l2WVFZ/2VqRgSIiFFQ1T+RTFwV",
+	"accessKeyId" : "yourApiKey",
+  "secretAccessKey": "yourAccessKey",
 	"region": "ap-northeast-2"
 }

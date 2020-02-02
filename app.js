@@ -64,5 +64,4 @@ const router = require('./routes/routers')(app);
 const mediaRouter = require('./routes/media');	// add image router file
 app.use('/', mediaRouter);
 const reviewRouter = require('./routes/review');	// add image router file
-//const reviewRouter = require('./routes/review');	// add image router file
 app.use('/', reviewRouter);
